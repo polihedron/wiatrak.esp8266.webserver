@@ -1,0 +1,7 @@
+{
+    "board": "esp8266:esp8266:d1_mini",
+    "configuration": "CpuFrequency=80,FlashSize=4M1M,LwIPVariant=v2mss536,Debug=Disabled,DebugLevel=None____,FlashErase=sdk,UploadSpeed=256000",
+    "programmer": "AVRISP mkII",
+    "sketch": "wiatrak.esp8266.webserver.ino",
+    "port": "COM4"
+}
