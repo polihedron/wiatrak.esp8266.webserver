@@ -13,3 +13,5 @@ Tenstar Robot TSP-05 5VDC/3W power supply,
 CMOS CD4503 Tri-state hex buffer and adapter.
 
 total cost about 5 USD (from China)
+
+https://www.youtube.com/watch?v=3TNEjn5p9Us
