@@ -14,4 +14,6 @@ CMOS CD4503 Tri-state hex buffer and adapter.
 
 total cost about 5 USD (from China)
 
+link how it's working, and how to modify:
+
 https://www.youtube.com/watch?v=3TNEjn5p9Us
